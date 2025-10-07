@@ -1,4 +1,4 @@
-# EchoFriend - Interactive Dutch Language Learning Assistant
+# EchoFriend - Interactive Dutch Language Learning Assistant (Ver1.0)
 
 ## 📖 Project Overview
 
@@ -333,3 +333,4 @@ Issues and Pull Requests are welcome!
 ---
 
 **Happy Learning! 🎉**
+
